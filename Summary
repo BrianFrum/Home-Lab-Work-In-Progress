@@ -1,1 +1,2 @@
-My goal with this project was to establish an at home SOC environment that I could explore and mess with to learn. I was able to successfully set up the Wazuh manager and agent inside two Ubuntu virtual machines, as well as set up real time file integrity monitoring for the agent.
+My goal with this project is to establish an at home SOC environment that I could explore and mess with to learn. So far I have been able to 
+successfully set up the Wazuh manager on my Windows 11 desktip and agent on an Ubuntu VM, as well as set up real time file integrity monitoring for the agent.
