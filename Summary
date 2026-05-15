@@ -1,5 +1,5 @@
 My goal with this project is to establish an at home SOC environment that I could explore and mess with to learn. So far I have been able to 
-successfully set up the Wazuh manager on my Windows 11 desktop and agent on an Ubuntu VM, as well as configure some tools in the sofware.
+successfully set up the Wazuh agent on my Windows 11 desktop and manager on an Ubuntu VM, as well as configure some tools in the sofware.
 
 ========================= COMPLETED CAPABILITIES =========================
 
